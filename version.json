@@ -1,0 +1,6 @@
+{
+  "version": "4.0.0",
+  "release_notes": "🚀 PHIÊN BẢN 4.0.0 (BẢN THƯƠNG MẠI CHÍNH THỨC):\n• Thống nhất font chữ Times New Roman cỡ 14 cho toàn bộ hồ sơ Excel xuất ra và chuẩn hóa mẫu Quyết toán Nhà Máy sang BM12A-PC-QT02 (14 cột).\n• Tự động điền cọc 20% cho đơn hàng > 60 triệu, bảo hành 5% đúng hồ sơ quyết toán, giữ nguyên khoảng trắng ký tên và triệt tiêu lỗi External Links.\n• Tập trung hoàn toàn vào nghiệp vụ làm giấy tờ hồ sơ & công nợ cục bộ, tích hợp hệ thống Bản quyền (HWID + Ed25519) và Tự động cập nhật qua GitHub Releases.",
+  "download_url": "https://github.com/nguyenbao2331/AutomationExcel-Releases/releases/download/v4.0.0/AutomationExcel_v4.0.0.zip",
+  "sha256": "e146604aad9a466ab0fa4736f09cf7173fac563fd2fb3428426fbb3e59ef76fd"
+}
